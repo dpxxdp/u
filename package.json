@@ -1,0 +1,26 @@
+{
+  "name": "u",
+  "version": "1.0.0",
+  "description": "internet user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpxxdp/u"
+  },
+  "keywords": [
+    "bitcoin",
+    "onename",
+    "openname",
+    "internet",
+    "payment"
+  ],
+  "author": "stdout studios",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/dpxxdp/u/issues"
+  },
+  "homepage": "https://github.com/dpxxdp/u"
+}
